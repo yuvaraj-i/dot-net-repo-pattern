@@ -1,0 +1,1 @@
+# dot-net-repo-pattern
